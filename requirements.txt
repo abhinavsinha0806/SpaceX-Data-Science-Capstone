@@ -1,1 +1,13 @@
-
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+folium
+plotly
+dash
+requests
+beautifulsoup4
+sqlalchemy
+ipython-sql
+wget
